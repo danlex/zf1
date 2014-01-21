@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <guestbook id="1" email="user1@example.com" comment="Comment1" created="2104-01-01 01:00:00" modified="2104-01-01 01:00:00"/>
+    <guestbook id="2" email="user2@example.com" comment="Comment2" created="2104-01-01 02:00:00" modified="2104-02-01 02:00:00"/>
+    <guestbook id="3" email="user3@example.com" comment="Comment3" created="2104-01-01 03:00:00" modified="2104-03-01 03:00:00"/>
+</dataset>
