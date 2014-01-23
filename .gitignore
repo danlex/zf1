@@ -2,6 +2,6 @@ INSTALL.txt
 LICENSE.txt
 README.txt
 demos/
-application/configs/application.ini
 extras/documentation
+application/configs/application.ini
 vendor/
